@@ -74,31 +74,31 @@ LICENSE
 
 ### Executive Overview
 
-![Executive Overview](Power%20BI/Executive%20Overview.png)
+![Executive Overview](Power%20BI/Executive%20Overview.jpg)
 
 ---
 
 ### Supply Chain & Inventory
 
-![Supply Chain & Inventory](Power%20BI/Supply%20Chain%20%26%20Inventory.png)
+![Supply Chain & Inventory](Power%20BI/Supply%20Chain%20%26%20Inventory.jpg)
 
 ---
 
 ### Delivery Performance & Logistics
 
-![Delivery Performance & Logistics](Power%20BI/Delivery%20Performance%20%26%20Logistics.png)
+![Delivery Performance & Logistics](Power%20BI/Delivery%20Performance%20%26%20Logistics.jpg)
 
 ---
 
 ### Demand Forecasting & Revenue Insights
 
-![Demand Forecasting & Revenue Insights](Power%20BI/Demand%20Forecasting%20%26%20Revenue%20Insights.png)
+![Demand Forecasting & Revenue Insights](Power%20BI/Demand%20Forecasting%20%26%20Revenue%20Insights.jpg)
 
 ---
 
 ### Executive Insights & Recommendations
 
-![Executive Insights & Recommendations](Power%20BI/Executive%20Insights%20%26%20Recommendations.png)
+![Executive Insights & Recommendations](Power%20BI/Executive%20Insights%20%26%20Recommendations.jpg)
 
 ---
 
