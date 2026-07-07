@@ -70,35 +70,35 @@ LICENSE
 
 ---
 
-# 📊 Dashboard Preview
+## 📊 Dashboard Preview
 
-## Executive Overview
+### Executive Overview
 
-![Executive Overview](Power%20BI/Dashboard%20Screenshots/Executive%20Overview.png)
-
----
-
-## Supply Chain & Inventory
-
-![Supply Chain & Inventory](Power%20BI/Dashboard%20Screenshots/Supply%20Chain%20%26%20Inventory.png)
+![Executive Overview](Power%20BI/Executive%20Overview.png)
 
 ---
 
-## Delivery Performance & Logistics
+### Supply Chain & Inventory
 
-![Delivery Performance & Logistics](Power%20BI/Dashboard%20Screenshots/Delivery%20Performance%20%26%20Logistics.png)
-
----
-
-## Demand Forecasting & Revenue Insights
-
-![Demand Forecasting & Revenue Insights](Power%20BI/Dashboard%20Screenshots/Demand%20Forecasting%20%26%20Revenue%20Insights.png)
+![Supply Chain & Inventory](Power%20BI/Supply%20Chain%20%26%20Inventory.png)
 
 ---
 
-## Executive Insights & Recommendations
+### Delivery Performance & Logistics
 
-![Executive Insights & Recommendations](Power%20BI/Dashboard%20Screenshots/Executive%20Insights%20%26%20Recommendations.png)
+![Delivery Performance & Logistics](Power%20BI/Delivery%20Performance%20%26%20Logistics.png)
+
+---
+
+### Demand Forecasting & Revenue Insights
+
+![Demand Forecasting & Revenue Insights](Power%20BI/Demand%20Forecasting%20%26%20Revenue%20Insights.png)
+
+---
+
+### Executive Insights & Recommendations
+
+![Executive Insights & Recommendations](Power%20BI/Executive%20Insights%20%26%20Recommendations.png)
 
 ---
 
